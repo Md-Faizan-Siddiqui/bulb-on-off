@@ -1,0 +1,14 @@
+
+.Off{
+  background-image: url(./img/off.jpg);
+  background-repeat: no-repeat;
+  color: white;
+}
+.On{
+  background-image: url(./img/on.jpg);
+  background-repeat: no-repeat;
+  color: white;
+}
+.main{
+  height: 100vh;
+}
